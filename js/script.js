@@ -3,37 +3,37 @@ window.onload = () => {
 
 const guestSpeakers = [
     {
-        image: '../assets/images/Totow.png',
+        image: './assets/images/Totow.png',
         name: 'Torger Christian Wolff',
         role: 'Formula 1 manager',
         bio: 'Shareholder and director in Formula 1'
     },
     {
-        image: '../assets/images/checop.png',
+        image: './assets/images/checop.png',
         name: 'Sergio Michel Pérez Mendoza',
         role: 'f1 driver',
         bio: 'Redbull Racing Driver'
     },
     {
-        image: '../assets/images/lewish.png',
+        image: './assets/images/lewish.png',
         name: 'Lewis Carl Davidson Larbalestier Hamilton',
         role: 'f1 driver',
         bio: 'Mercedes AMG Petronas Motorsport'
     },
     {
-        image: '../assets/images/christianh.png',
+        image: './assets/images/christianh.png',
         name: 'Christian Horner',
         role: 'Formula 1 manager',
         bio: 'Shareholder and director in Formula 1'
     },
     {
-        image: '../assets/images/zacb.png',
+        image: './assets/images/zacb.png',
         name: 'Zak Brown',
         role: 'Formula 1 manager',
         bio: 'Shareholder and director in Formula 1'
     },
     {
-        image: '../assets/images/binnoto.png',
+        image: './assets/images/binnoto.png',
         name: 'Mattia Binotto',
         role: 'Formula 1 manager',
         bio: 'Shareholder and director in Formula 1'
