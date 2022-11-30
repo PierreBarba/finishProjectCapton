@@ -1,19 +1,18 @@
-<img src="./assets/images/microverse.png">
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+<img src="./assets/images/microverse.png" alt="logo" width="140"  height="auto" />
+<br/>
 
-  <h3><b>Microverse README Template</b></h3>
+<h3><b>Microverse README Template</b></h3>
 
 </div>
 
 
 # 📗 Table of Contents
 
-  - [🚀 Live Demo](https://pierrebarba.github.io/portfolio-setup-and-movile-first/)
+  - [🚀 Live Demo](https://pierrebarba.github.io/finishProjectCapton/index.html)
 - [💻 Getting Started](https://pierrebarba.github.io/portfolio-setup-and-movile-first/)
   - [Setup](setup)
   - [Prerequisites](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/8_popup.md)
@@ -51,7 +50,7 @@
 ## 🚀 Live Demo <a name="Capton Project Pierre Barba"></a>
 
 
-- [Live Demo Link](http://127.0.0.1:5503/)
+- [Live Demo Link](https://pierrebarba.github.io/finishProjectCapton/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
