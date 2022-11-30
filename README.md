@@ -102,6 +102,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+- Microverse 
+-  Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
+- [Creative commons](https://creativecommons.org/licenses/by-nc/4.0/)
 
 I would like to thank to my stand up colleagues, to my coding partner.
 
@@ -109,6 +112,7 @@ I would like to thank to my stand up colleagues, to my coding partner.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
