@@ -13,16 +13,16 @@
 # 📗 Table of Contents
 
   - [🚀 Live Demo](https://pierrebarba.github.io/finishProjectCapton/index.html)
-- [💻 Getting Started](https://pierrebarba.github.io/portfolio-setup-and-movile-first/)
+- [💻 Getting Started](https://pierrebarba.github.io/finishProjectCapton/index.html)
   - [Setup](setup)
-  - [Prerequisites](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/8_popup.md)
+  - [Prerequisites](https://pierrebarba.github.io/finishProjectCapton/index.html)
   - [Install](install)
   - [Usage](html,javascript,css)
 - [👥 Authors](https://github.com/PierreBarba)
-- [🔭 Future Features](https://github.com/microverseinc/curriculum-html-css/blob/main/portfolio/9_validate_form.md)
+- [🔭 Future Features](https://pierrebarba.github.io/finishProjectCapton/index.html)
 - [🤝 Contributing](https://github.com/cilfonegabriel)
 - [⭐️ Show your support](support)
-- [🙏 Acknowledgements](https://github.com/cilfonegabriel,https://github.com/elafildecolor,https://github.com/luigirazum)
+- [🙏 Acknowledgements](https://github.com/elafildecolor,https://github.com/luigirazum)
 - [📝 License](MIT)
 
 <!-- PROJECT DESCRIPTION -->
