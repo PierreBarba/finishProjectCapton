@@ -3,7 +3,7 @@ window.onload = () => {
 
 const guestSpeakers = [
     {
-        image: './assets/images/totow.png',
+        image: './assets/images/toto.png',
         name: 'Torger Christian Wolff',
         role: 'Formula 1 manager',
         bio: 'Shareholder and director in Formula 1'
