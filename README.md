@@ -1,4 +1,4 @@
-<img src="./murple_logo.png">
+<img src="./assets/images/microverse.png">
 <a name="readme-top"></a>
 
 <div align="center">
