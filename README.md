@@ -51,6 +51,7 @@
 
 
 - [Live Demo Link](https://pierrebarba.github.io/finishProjectCapton/index.html)
+- [Live Demo recording](https://www.loom.com/share/ff5e3d8278fd430baf6813f056a2d436)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
