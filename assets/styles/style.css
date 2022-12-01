@@ -160,7 +160,7 @@ html {
 .mobile-first-page h4 {
   font-family: 'Lato', sans-serif;
   font-size: 23px;
-  color: var(--grey);
+  color: var(--lightSmoke);
   margin-top: 2%;
   padding-bottom: 10%;
 }
@@ -373,6 +373,11 @@ html {
 /* hasta aquí debo arreglar esta version mobil */
 
 @media all and (min-width: 768px) {
+
+  .card-4{
+    border: 3px solid;
+    border-color: #ece9e9;
+  }
   .header-menu {
     display: flex;
     width: 100%;
@@ -470,8 +475,8 @@ html {
     margin-right: 1em;
     margin-left: 1em;
     background-size: 10%, 5%, 3%, 3%;
-    background-position: 90% 97%, 60% 40%, 90% 3%, 5% 50%;
-  }
+    background-position:86% 54%, 98% 80%, 91% 3%, 7% 45%;
+}
 
   .mobile-first-page h1 {
     font-size: 40px;
