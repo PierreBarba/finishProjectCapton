@@ -339,6 +339,9 @@ html {
   margin-top: 0;
 }
 
+#card2,#card3,#card4,#card5{
+  display:none;
+}
 .more-btn {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -352,6 +355,7 @@ html {
   border: 1px solid var(--smoke);
   margin: 5% 8%;
 }
+
 
 .arrow {
   content: "\f078";
@@ -475,7 +479,7 @@ html {
     margin-right: 1em;
     margin-left: 1em;
     background-size: 10%, 5%, 3%, 3%;
-    background-position:86% 54%, 98% 80%, 91% 3%, 7% 45%;
+    background-position: 86% 54%, 89% 80%, 91% 3%, 7% 45%;
 }
 
   .mobile-first-page h1 {

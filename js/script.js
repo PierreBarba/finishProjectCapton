@@ -37,24 +37,48 @@ window.onload = () => {
       bio: 'Shareholder and director in Formula 1',
     },
   ];
-/* eslint-disable */
-  function displaySpeakerInfo(speakerInfo) {
-    const speakers = `<div class="speaker-1">
+
+  
+    const guestSpeakerAtEvent = document.getElementById('image-display');
+    for (let i = 0; i < guestSpeakers.length; i++){
+      let speakers = `<div id="card${i}" class="speaker-1">
     <div class="speaker-image">
-        <img src=${speakerInfo.image} alt="speaker-1">
+        <img src=${guestSpeakers[i].image} alt="speaker-1">
     </div>
     <div>
-        <h2>${speakerInfo.name}</h2>
-        <h3>${speakerInfo.role}</h3>
-        <h4>${speakerInfo.bio}</h4>
+        <h2>${guestSpeakers[i].name}</h2>
+        <h3>${guestSpeakers[i].role}</h3>
+        <h4>${guestSpeakers[i].bio}</h4>
     </div>
 </div>`;
-    return speakers;
-  }
-  const guestSpeakerAtEvent = document.querySelector('.image-display-1');
-  guestSpeakers.forEach((card) => {
-    guestSpeakerAtEvent.innerHTML += displaySpeakerInfo(card);
-  });
+guestSpeakerAtEvent.innerHTML+=speakers;
+console.log(speakers);
+    }
+
+    const card2 = document.getElementById('card2');
+    const buttonmore = document.getElementById('more');
+    buttonmore.addEventListener('click', () => {
+      if (card2.style.display==='flex'){
+        card2.style.display = 'none'; 
+      }
+      else {card2.style.display = 'flex'
+      }
+      if (card3.style.display==='flex'){
+        card3.style.display = 'none'; 
+      }
+      else {card3.style.display = 'flex'
+      }
+      if (card4.style.display==='flex'){
+        card4.style.display = 'none'; 
+      }
+      else {card4.style.display = 'flex'
+      }
+      if (card5.style.display==='flex'){
+        card5.style.display = 'none'; 
+      }
+      else {card5.style.display = 'flex'
+      }
+    })
 
   const hamburger = document.querySelector('.menu');
   const closeBtn = document.querySelector('.closeBtn');
@@ -71,7 +95,7 @@ window.onload = () => {
       value.style.display = 'none';
     });
   }
-  
+
   close(closeBtn, '.mobile-menu');
   closeBtn.addEventListener('click', () => {
     const menu = document.querySelector('.mobile-menu');
