@@ -40,17 +40,27 @@ body {
 }
 
 #about-handburger {
-
+  padding-top: 6%;
+  margin: 0 1em;
 }
 
 .handburger {
-
+  content: "\f0c9";
+  font-size: 40px;
+  color: var(--grey);
 }
 
 .mobile-menu {
-
-
-.
+  display: none;
+  background-color: #3c3a39;
+  width: 100%;
+  margin-top: 0;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: fixed;
   list-style: none;
   opacity: 89%;
 }
